@@ -13,4 +13,6 @@ def add_character(show, name)
   # two failing test left to address
   BASE_HOA[:third_earthers] << "Snarf"
   
+  BASE_HOA
+  
 end
