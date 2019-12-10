@@ -10,5 +10,6 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   # the test output has shown 3 issues to address
   BASE_HOA[:chipmunks] << "Dave"
+  # two failing test left to address
   
 end
